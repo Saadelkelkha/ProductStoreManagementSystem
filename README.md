@@ -1,7 +1,7 @@
 # ProductStoreManagementSystem
 This program implements a product store management system using classes for generic products, stores, books, and CDs. Products have attributes like name, prices, and quantity. Stores manage product stocks and transactions, and CDs/Books inherit from Products with specific attributes.
 
-# More Details L
+# More Details :
 This program defines a set of classes related to managing products, stores, books, and CDs. Here's a breakdown of each class:
 
 <b>Products</b>:
